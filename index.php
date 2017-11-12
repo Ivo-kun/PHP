@@ -1,5 +1,5 @@
 <?php
 
-echo "No stress é o caralho!";
+echo "Hello world é o caralho!";
 
 ?>
