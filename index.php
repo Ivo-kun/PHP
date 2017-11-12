@@ -4,8 +4,8 @@ echo "No stress é o cacete!";
 
 echo "Não Pertube!";
 
-echo "Camisas cor azul.";
+echo "Camisas do rock";
 
-echo "Camisa I want be your dog.";
+echo "Camisas 3d de gatos";
 
 ?>
